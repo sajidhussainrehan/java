@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804985131307",
+    "project_id": "nfl-schedule-2022",
+    "storage_bucket": "nfl-schedule-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804985131307:android:dd5469bf1761f4e690f56e",
+        "android_client_info": {
+          "package_name": "com.nfllive.nfl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804985131307-1f7l8jgrvhrsdcqdki3pla04ou3u3qn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqYxUEUeYjmBFzqkTDxrq4s2TUjTK9GFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804985131307-1f7l8jgrvhrsdcqdki3pla04ou3u3qn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

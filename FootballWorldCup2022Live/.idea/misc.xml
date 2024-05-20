@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_channels.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_groups.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_kits.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_lineup.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_lineup1.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_lineup2.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_live.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_news.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_prediction1.xml" value="0.165625" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_predictions.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_results.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_schedule.xml" value="0.25" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_schedule1.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_schedule2.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_short_video.xml" value="0.67" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_splash.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_stadium.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_standings.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_stats.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team1.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team10.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team11.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team12.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team13.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team14.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team15.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team16.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team17.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team18.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team19.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team2.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team20.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team21.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team22.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team23.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team24.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team25.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team26.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team27.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team28.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team29.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team3.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team30.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team31.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team32.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team4.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team5.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team6.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team7.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team8.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_team9.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams1.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams10.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams11.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams12.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams13.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams14.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams15.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams16.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams17.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams18.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams19.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams2.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams20.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams21.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams22.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams23.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams24.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams25.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams26.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams27.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams28.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams29.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams3.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams30.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams31.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams32.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams4.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams5.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams6.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams7.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams8.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_teams9.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_tickets.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/activity_winners.xml" value="0.33" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/channel1.xml" value="0.5" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/lineupp.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/matchprediction.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/resultss.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/singleteam.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/stadium1.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/statss.xml" value="0.33" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/FootballWorldCup2022Live/app/src/main/res/layout/team1single.xml" value="0.16210739614994935" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415375034275",
+    "project_id": "t20-world-cup-2022-ae683",
+    "storage_bucket": "t20-world-cup-2022-ae683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415375034275:android:464dbb31ba46b49ecb7c16",
+        "android_client_info": {
+          "package_name": "com.t20cup.t20worldcup2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415375034275-or2s6v45gpolkf9nq5ev05n484hu62k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKB-s6gm57VCnHylVDqOTQGIx2qXAb6w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415375034275-or2s6v45gpolkf9nq5ev05n484hu62k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

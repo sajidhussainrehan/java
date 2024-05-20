@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/drawable/signal_wifi.xml" value="0.173" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_live1.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_livenfl.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_polls.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_predictions.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_schedule.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_splash.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team1.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team10.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team11.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team12.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team13.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team14.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team15.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team16.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team17.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team18.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team19.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team2.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team20.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team21.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team22.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team23.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team24.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team25.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team26.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team27.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team28.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team29.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team3.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team30.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team31.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team32.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team4.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team5.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team6.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team7.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team8.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_team9.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_teams.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_teams1.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/activity_teamsc.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singlerow.xml" value="0.25" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam1.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam10.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam11.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam12.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam13.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam14.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam15.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam16.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam17.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam18.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam19.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam2.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam20.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam21.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam22.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam23.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam24.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam25.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam26.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam27.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam28.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam29.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam3.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam30.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam31.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam32.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam4.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam6.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam7.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam8.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule2022/app/src/main/res/layout/singleteam9.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

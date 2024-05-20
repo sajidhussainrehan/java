@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/activity_schedule.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/activity_team21.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/activity_team22.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/activity_team23.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/activity_team24.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/activity_team25.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/activity_team26.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singlerow.xml" value="0.33" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam10.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam11.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam12.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam13.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam14.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam15.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam16.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam17.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam18.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam19.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam20.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam22.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam23.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam24.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam25.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam26.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam27.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam28.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam29.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam3.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam30.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam5.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam6.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam7.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/NFLSchedule/2021NFLDRATLIVE/app/src/main/res/layout/singleteam9.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/Desktop/New folder (2)/2021NFLDRATLIVE/2021NFLDRATLIVE/app/src/main/res/layout/activity_live1.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/Cric4you/Desktop/New folder (2)/2021NFLDRATLIVE/2021NFLDRATLIVE/app/src/main/res/layout/activity_livenfl.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/Desktop/New folder (2)/2021NFLDRATLIVE/2021NFLDRATLIVE/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/Cric4you/Desktop/New folder (2)/2021NFLDRATLIVE/2021NFLDRATLIVE/app/src/main/res/layout/activity_predictions.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/Desktop/New folder (2)/2021NFLDRATLIVE/2021NFLDRATLIVE/app/src/main/res/layout/activity_schedule.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/Desktop/New folder (2)/2021NFLDRATLIVE/2021NFLDRATLIVE/app/src/main/res/layout/activity_splash.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/Desktop/New folder (2)/2021NFLDRATLIVE/2021NFLDRATLIVE/app/src/main/res/layout/activity_teams.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Cric4you/Desktop/New folder (2)/2021NFLDRATLIVE/2021NFLDRATLIVE/app/src/main/res/layout/singlerow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Cric4you/Desktop/New folder (2)/2021NFLDRATLIVE/2021NFLDRATLIVE/app/src/main/res/layout/singleteam1.xml" value="0.3202614379084967" />
+        <entry key="..\:/Users/Cric4you/Desktop/New folder (2)/2021NFLDRATLIVE/2021NFLDRATLIVE/app/src/main/res/layout/singleteams.xml" value="0.3908450704225352" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

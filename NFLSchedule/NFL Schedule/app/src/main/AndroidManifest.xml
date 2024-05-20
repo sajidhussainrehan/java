@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.nfllive.nfl">
+    <!-- Include required permissions for Google Mobile Ads to run. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:name="com.nfllive.nfl.appClass"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name="com.nfllive.nfl.Team32"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team31"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team30"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team29"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team28"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team27"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team26"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team25"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team24"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team23"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team22"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team21"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team20"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team19"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team18"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team17"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team16"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team15"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team14"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team13"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team12"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team11"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team10"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team9"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team8"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team7"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team6"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team5"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team4"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team3"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team2"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Team1"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Predictions"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Schedule"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Teams"
+            android:exported="false" />
+        <activity
+            android:name="com.nfllive.nfl.Live1"
+            android:exported="false" />
+        <activity android:name="com.nfllive.nfl.Testads" />
+        <activity
+            android:name="com.nfllive.nfl.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.nfllive.nfl.livenfl" />
+        <activity android:name="com.nfllive.nfl.MainActivity" /> <!-- <meta-data android:name="applovin.sdk.key" -->
+        <!-- android:value="6Qtv4aOdl_uyW8iTmZocZTZ0MT8UtBU-bLugwHJeGCanKIF5t1iQZGRxqaPhmugMDT18qLn5XMttf6yW7eyhwN"/> -->
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="BG35eKJtwUe6MDfm0-tDDwIdm65JZIFGkfq89ncnW4PC08TUi_1IJczogL36UT37AJIfBw48bKh2uTUACzilOb" />
+        <meta-data
+            android:name="applovin.sdk.verbose_logging"
+            android:value="true" />
+
+        <activity
+            android:name="com.applovin.adview.AppLovinInterstitialActivity"
+            android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="behind" />
+        <activity
+            android:name="com.applovin.adview.AppLovinFullscreenActivity"
+            android:configChanges="keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+            android:exported="false"
+            android:hardwareAccelerated="true"
+            android:launchMode="singleTop"
+            android:screenOrientation="behind" />
+    </application>
+
+</manifest>

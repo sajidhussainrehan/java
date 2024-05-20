@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.swiperefreshlayout.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/swiperefresh"
+    android:layout_height="match_parent"
+    tools:context=".Team16">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+               <WebView
+            android:id="@+id/liveAuction"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+        </WebView>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:id="@+id/relativelayout">
+
+            <ImageView
+                android:layout_width="240dp"
+                android:layout_height="240dp"
+                android:src="@drawable/ic_baseline_wifi_off_24"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/noConnectionLogo"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="No Internet Connection"
+                android:layout_below="@+id/noConnectionLogo"
+                android:textAlignment="center"
+                android:textSize="26sp"
+                android:id="@+id/txtNoConnection"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:id="@+id/txtNoConnection1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/noConnectionLogo"
+                android:layout_marginTop="41dp"
+                android:text="Please Check your Internet Connection "
+                android:textColor="#FF0000"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:gravity="center_horizontal" />
+
+            <Button
+                android:layout_width="140dp"
+                android:layout_height="55dp"
+                android:text="Retry"
+                android:background="#2196F3"
+                android:textColor="#ffffff"
+                android:textSize="22sp"
+                android:layout_below="@id/txtNoConnection"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="60dp"
+                android:id="@+id/btnnoconnection"/>
+
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11287620333",
+    "project_id": "cpl-2022-live",
+    "storage_bucket": "cpl-2022-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11287620333:android:0200408df31512a1843ae4",
+        "android_client_info": {
+          "package_name": "com.rehansoft.cpllive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11287620333-qupflgr1n4qt7q8v2bvkcsdkeco6qef6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqJA7bcDUaXLPdIl3ZNI2Msuao0nq7L-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11287620333-qupflgr1n4qt7q8v2bvkcsdkeco6qef6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

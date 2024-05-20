@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.nfllive.nfl">
+    <!-- Include required permissions for Google Mobile Ads to run. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NFLSchedule2022"
+        android:usesCleartextTraffic="true"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".Polls"
+            android:exported="false" />
+        <activity
+            android:name=".Teamsc"
+            android:exported="false" />
+        <activity
+            android:name=".Teams1"
+            android:exported="false" />
+        <activity
+            android:name=".Team32"
+            android:exported="false" />
+        <activity
+            android:name=".Team31"
+            android:exported="false" />
+        <activity
+            android:name=".Team30"
+            android:exported="false" />
+        <activity
+            android:name=".Team29"
+            android:exported="false" />
+        <activity
+            android:name=".Team28"
+            android:exported="false" />
+        <activity
+            android:name=".Team27"
+            android:exported="false" />
+        <activity
+            android:name=".Team26"
+            android:exported="false" />
+        <activity
+            android:name=".Team25"
+            android:exported="false" />
+        <activity
+            android:name=".Team24"
+            android:exported="false" />
+        <activity
+            android:name=".Team23"
+            android:exported="false" />
+        <activity
+            android:name=".Team22"
+            android:exported="false" />
+        <activity
+            android:name=".Team21"
+            android:exported="false" />
+        <activity
+            android:name=".Team20"
+            android:exported="false" />
+        <activity
+            android:name=".Team19"
+            android:exported="false" />
+        <activity
+            android:name=".Team18"
+            android:exported="false" />
+        <activity
+            android:name=".Team17"
+            android:exported="false" />
+        <activity
+            android:name=".Team16"
+            android:exported="false" />
+        <activity
+            android:name=".Team15"
+            android:exported="false" />
+        <activity
+            android:name=".Team14"
+            android:exported="false" />
+        <activity
+            android:name=".Team13"
+            android:exported="false" />
+        <activity
+            android:name=".Team12"
+            android:exported="false" />
+        <activity
+            android:name=".Team11"
+            android:exported="false" />
+        <activity
+            android:name=".Team10"
+            android:exported="false" />
+        <activity
+            android:name=".Team9"
+            android:exported="false" />
+        <activity
+            android:name=".Team8"
+            android:exported="false" />
+        <activity
+            android:name=".Team7"
+            android:exported="false" />
+        <activity
+            android:name=".Team6"
+            android:exported="false" />
+        <activity
+            android:name=".Team5"
+            android:exported="false" />
+        <activity
+            android:name=".Team4"
+            android:exported="false" />
+        <activity
+            android:name=".Team3"
+            android:exported="false" />
+        <activity
+            android:name=".Team2"
+            android:exported="false" />
+        <activity
+            android:name=".Team1"
+            android:exported="false" />
+        <activity
+            android:name=".Predictions"
+            android:exported="false" />
+        <activity
+            android:name=".Schedule"
+            android:exported="false" />
+        <activity
+            android:name=".Teams"
+            android:exported="false" />
+        <activity
+            android:name=".Live1"
+            android:exported="false" />
+        <activity android:name=".Testads" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".livenfl" />
+        <activity android:name=".MainActivity" /> <!-- <meta-data android:name="applovin.sdk.key" -->
+        <!-- android:value="6Qtv4aOdl_uyW8iTmZocZTZ0MT8UtBU-bLugwHJeGCanKIF5t1iQZGRxqaPhmugMDT18qLn5XMttf6yW7eyhwN"/> -->
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="BG35eKJtwUe6MDfm0-tDDwIdm65JZIFGkfq89ncnW4PC08TUi_1IJczogL36UT37AJIfBw48bKh2uTUACzilOb" />
+        <meta-data
+            android:name="applovin.sdk.verbose_logging"
+            android:value="true" />
+    </application>
+
+</manifest>

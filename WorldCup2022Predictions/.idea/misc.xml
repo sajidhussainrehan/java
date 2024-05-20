@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/font/baloo.xml" value="0.3" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_channels.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_line_up.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_live.xml" value="0.1636271529888551" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_match_pre.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_polls.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_predictions.xml" value="0.22" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_schedule.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_splash.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_standings.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team1.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team10.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team11.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team12.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team13.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team14.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team15.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team16.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team17.xml" value="0.3343782654127482" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team18.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team19.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team2.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team20.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team21.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team22.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team23.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team24.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team25.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team26.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team27.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team28.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team29.xml" value="0.1636271529888551" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team3.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team30.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team31.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team32.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team4.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team5.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team6.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team7.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team8.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_team9.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_teams.xml" value="0.1" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_test_point.xml" value="0.5" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/activity_winners.xml" value="0.33" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/lineupp.xml" value="0.16" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/matchprediction.xml" value="0.25" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/singleteam.xml" value="0.4073298429319372" />
+        <entry key="..\:/Users/Cric4you/AndroidStudioProjects/WorldCup2022Predictions/app/src/main/res/layout/team1single.xml" value="0.16210739614994935" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

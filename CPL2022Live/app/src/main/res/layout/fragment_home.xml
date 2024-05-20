@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffff"
+    tools:context=".ui.home.HomeFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <androidx.cardview.widget.CardView
+            android:id="@+id/livenow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#00000000">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginBottom="6dp"
+                android:layout_height="70dp"
+                android:background="#72132b"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    app:srcCompat="@drawable/live" />
+
+                <TextView
+                    android:layout_width="210dp"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="20dp"
+                    android:textSize="20dp"
+
+                    android:textColor="#ffff"
+                    android:layout_height="match_parent"
+
+                    android:text="LIVE SCORE" />
+
+                <ImageView
+                    android:layout_width="65dp"
+                    android:padding="15dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/arrowf" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/news"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#00000000">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:background="#72132b"
+                android:layout_marginBottom="6dp"
+                android:orientation="horizontal">
+
+                <ImageView
+
+                    android:layout_width="110dp"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/news" />
+
+                <TextView
+
+                    android:layout_width="210dp"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="20dp"
+                    android:textSize="20dp"
+
+                    android:textColor="#ffff"
+                    android:layout_height="match_parent"
+
+                    android:text="LATEST NEWS" />
+
+                <ImageView
+                    android:layout_width="65dp"
+                    android:padding="15dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/arrowf" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/fixtures"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#00000000">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginBottom="6dp"
+                android:background="#72132b"
+                android:orientation="horizontal">
+
+                <ImageView
+
+                    android:layout_width="110dp"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/schedule" />
+
+                <TextView
+
+                    android:layout_width="210dp"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="20dp"
+                    android:textSize="20dp"
+
+                    android:textColor="#ffff"
+                    android:layout_height="match_parent"
+
+                    android:text="SCHEDULE" />
+
+                <ImageView
+
+                    android:layout_width="65dp"
+                    android:padding="15dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/arrowf" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/teams"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#00000000">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginBottom="6dp"
+                android:background="#72132b"
+                android:orientation="horizontal">
+
+                <ImageView
+
+                    android:layout_width="110dp"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/team" />
+
+                <TextView
+
+                    android:layout_width="210dp"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="20dp"
+                    android:textSize="20dp"
+
+                    android:textColor="#ffff"
+                    android:layout_height="match_parent"
+
+                    android:text="TEAMS &amp; SQUADS" />
+
+                <ImageView
+
+                    android:layout_width="65dp"
+                    android:padding="15dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/arrowf" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:id="@+id/lineup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#00000000">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:background="#72132b"
+                android:layout_marginBottom="6dp"
+                android:orientation="horizontal">
+
+                <ImageView
+
+                    android:layout_width="110dp"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/stars" />
+
+                <TextView
+
+                    android:layout_width="210dp"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="20dp"
+                    android:textSize="20dp"
+
+                    android:textColor="#ffff"
+                    android:layout_height="match_parent"
+
+                    android:text="Playing 11" />
+
+                <ImageView
+
+                    android:layout_width="65dp"
+                    android:padding="15dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/arrowf" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:id="@+id/standings"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#00000000">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginBottom="6dp"
+                android:background="#72132b"
+                android:orientation="horizontal">
+
+                <ImageView
+
+                    android:layout_width="110dp"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/graph" />
+
+                <TextView
+
+                    android:layout_width="210dp"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="20dp"
+                    android:textSize="20dp"
+
+                    android:textColor="#ffff"
+                    android:layout_height="match_parent"
+
+                    android:text="POINTS TABLE" />
+
+                <ImageView
+
+                    android:layout_width="65dp"
+                    android:padding="15dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/arrowf" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:id="@+id/predictions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#00000000">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginBottom="6dp"
+                android:background="#72132b"
+                android:orientation="horizontal">
+
+                <ImageView
+
+                    android:layout_width="110dp"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/check" />
+
+                <TextView
+
+                    android:layout_width="210dp"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="20dp"
+                    android:textSize="20dp"
+
+                    android:textColor="#ffff"
+                    android:layout_height="match_parent"
+
+                    android:text="PREDICTIONS" />
+
+                <ImageView
+
+                    android:layout_width="65dp"
+                    android:padding="15dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/arrowf" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:id="@+id/polls"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#00000000">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginBottom="6dp"
+                android:background="#72132b"
+                android:orientation="horizontal">
+
+                <ImageView
+
+                    android:layout_width="110dp"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/polls" />
+                <TextView
+                    android:layout_width="210dp"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="20dp"
+                    android:textSize="20dp"
+                    android:textColor="#ffff"
+                    android:layout_height="match_parent"
+                    android:text="POLLS" />
+
+                <ImageView
+
+                    android:layout_width="65dp"
+                    android:padding="15dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/arrowf" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:id="@+id/channels"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#00000000">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginBottom="6dp"
+                android:background="#72132b"
+                android:orientation="horizontal">
+
+                <ImageView
+
+                    android:layout_width="110dp"
+                    android:padding="8dp"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/channels" />
+
+                <TextView
+
+                    android:layout_width="210dp"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="20dp"
+                    android:textSize="20dp"
+
+                    android:textColor="#ffff"
+                    android:layout_height="match_parent"
+
+                    android:text="CHANNELS" />
+
+                <ImageView
+
+                    android:layout_width="65dp"
+                    android:padding="15dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/arrowf" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:id="@+id/winners"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#00000000">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginBottom="6dp"
+                android:background="#72132b"
+                android:orientation="horizontal">
+
+                <ImageView
+
+                    android:layout_width="110dp"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    app:srcCompat="@drawable/success" />
+
+                <TextView
+
+                    android:layout_width="210dp"
+                    android:textAlignment="center"
+                    android:textStyle="bold"
+                    android:paddingTop="20dp"
+                    android:textSize="20dp"
+
+                    android:textColor="#ffff"
+                    android:layout_height="match_parent"
+
+                    android:text="WINNERS" />
+
+                <ImageView
+
+                    android:layout_width="65dp"
+                    android:padding="15dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/arrowf" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</ScrollView>

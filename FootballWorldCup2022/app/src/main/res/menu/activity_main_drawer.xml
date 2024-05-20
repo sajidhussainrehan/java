@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_24"
+            android:title="@string/menu_home"
+
+            />
+        <item
+            android:id="@+id/live"
+            android:icon="@drawable/livematch"
+            android:title="Live Score"
+            />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/people_24"
+            android:title="Teams &amp; Squads"
+            />
+        <item
+            android:id="@+id/news2"
+            android:icon="@drawable/tv_off_24"
+            android:title="Latest News"
+            />
+        <item
+            android:id="@+id/fixtures"
+            android:icon="@drawable/calenders"
+            android:title="Schedule"
+            />
+        <item
+            android:id="@+id/lineup2"
+            android:icon="@drawable/lineups"
+            android:title="Line Up"
+            />
+        <item
+            android:id="@+id/kits"
+            android:icon="@drawable/kitts"
+            android:title="Kits"
+            />
+        <item
+            android:id="@+id/stadium2"
+            android:icon="@drawable/stadiumss"
+            android:title="Stadiums"
+            />
+        <item
+            android:id="@+id/history"
+            android:icon="@drawable/wiinners"
+            android:title="Winners"
+            />
+        <item
+            android:id="@+id/channels2"
+            android:icon="@drawable/live_tv_24"
+            android:title="Channels"
+            />
+
+        <item
+            android:id="@+id/standings"
+            android:icon="@drawable/analytics_24"
+            android:title="Standings"
+            />
+
+        <item
+            android:id="@+id/predictions"
+            android:icon="@drawable/verified_user_24"
+            android:title="Predictions"
+            />
+        <item
+            android:id="@+id/stats"
+            android:icon="@drawable/staats"
+            android:title="Stats"
+            />
+        <item
+            android:id="@+id/polls2"
+            android:icon="@drawable/pools"
+            android:title="Polls"
+            />
+    </group>
+</menu>

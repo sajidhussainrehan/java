@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474980631831",
+    "firebase_url": "https://asia-cup-2022-uae-default-rtdb.firebaseio.com",
+    "project_id": "asia-cup-2022-uae",
+    "storage_bucket": "asia-cup-2022-uae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474980631831:android:8655e0dd4da4522e5fa352",
+        "android_client_info": {
+          "package_name": "com.rehansoft.asiacup2022uae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474980631831-afm6vetsvf6g96mpnca9k87t3ceut027.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhkVP8w4ukftsk2SmvXE_M-uQOLl-5heI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474980631831-afm6vetsvf6g96mpnca9k87t3ceut027.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

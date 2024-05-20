@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011651206844",
+    "project_id": "football-world-cup-2022-da5e9",
+    "storage_bucket": "football-world-cup-2022-da5e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011651206844:android:f30ddc0992e267c6fdfab9",
+        "android_client_info": {
+          "package_name": "com.football.footballworldcupqatar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011651206844-k2qm3eakb1mf3pskhvoie5gu8bjni1u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1CTMLGhy80a0rzBBrMYg_X1TdhIVSUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011651206844-k2qm3eakb1mf3pskhvoie5gu8bjni1u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

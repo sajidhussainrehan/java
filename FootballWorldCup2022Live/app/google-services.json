@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094648969902",
+    "project_id": "football-world-cup-2022-live",
+    "storage_bucket": "football-world-cup-2022-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094648969902:android:6323b77cfc829b27598b3f",
+        "android_client_info": {
+          "package_name": "com.rehansoft.footballworldcup2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094648969902-gc7d6ucafqpcu837vu8pt088s57i99ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUXx8UXumze3Y67BLn0aZEcDdiHyDJcA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094648969902-gc7d6ucafqpcu837vu8pt088s57i99ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

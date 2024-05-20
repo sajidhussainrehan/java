@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.rehansoft.cpllive">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CPL2022Live"
+        tools:targetApi="31">
+        <activity
+            android:name=".Splash"
+            android:exported="true" >
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Team6"
+            android:exported="false" />
+        <activity
+            android:name=".Team5"
+            android:exported="false" />
+        <activity
+            android:name=".Team4"
+            android:exported="false" />
+        <activity
+            android:name=".Team3"
+            android:exported="false" />
+        <activity
+            android:name=".Team2"
+            android:exported="false" />
+        <activity
+            android:name=".Team1"
+            android:exported="false" />
+        <activity
+            android:name=".Winners"
+            android:exported="false" />
+        <activity
+            android:name=".Channels"
+            android:exported="false" />
+        <activity
+            android:name=".Polls"
+            android:exported="false" />
+        <activity
+            android:name=".Prediction"
+            android:exported="false" />
+        <activity
+            android:name=".Pionts"
+            android:exported="false" />
+        <activity
+            android:name=".LineUp"
+            android:exported="false" />
+        <activity
+            android:name=".Squads"
+            android:exported="false" />
+        <activity
+            android:name=".Schedule"
+            android:exported="false" />
+        <activity
+            android:name=".News"
+            android:exported="false" />
+        <activity
+            android:name=".Live"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.CPL2022Live.NoActionBar">
+
+        </activity>
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="BG35eKJtwUe6MDfm0-tDDwIdm65JZIFGkfq89ncnW4PC08TUi_1IJczogL36UT37AJIfBw48bKh2uTUACzilOb" />
+
+
+    </application>
+
+</manifest>

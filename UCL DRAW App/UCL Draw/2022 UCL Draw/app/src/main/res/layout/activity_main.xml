@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_height="200dp"
+            android:layout_width="match_parent"
+            android:padding="20dp"
+            app:srcCompat="@drawable/sajidrehan566" />
+
+        <Button
+            android:id="@+id/button"
+            android:background="@drawable/round_border"
+            android:layout_height="55dp"
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:padding="16dp"
+            android:text="LIVE"
+            android:textColor="#05195A"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:background="@drawable/round_border"
+            android:layout_height="55dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:padding="16dp"
+            android:text="Latest News"
+            android:textColor="#05195A"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button1"
+            android:background="@drawable/round_border"
+            android:layout_height="55dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:padding="16dp"
+            android:text="SCHEDULE"
+            android:textColor="#05195A"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button3"
+            android:background="@drawable/round_border"
+            android:layout_height="55dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:padding="16dp"
+            android:text="Teams &amp; Rosters"
+            android:textColor="#05195A"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button32"
+            android:background="@drawable/round_border"
+            android:layout_height="55dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:padding="16dp"
+            android:text="Standings"
+            android:textColor="#05195A"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button4"
+            android:background="@drawable/round_border"
+            android:layout_height="55dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:padding="16dp"
+            android:text="Predictions"
+            android:textColor="#05195A"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button5"
+            android:background="@drawable/round_border"
+            android:layout_height="55dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:padding="16dp"
+            android:text="Lineup"
+            android:textColor="#05195A"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button6"
+            android:background="@drawable/round_border"
+            android:layout_height="55dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:padding="16dp"
+            android:text="Channels"
+            android:textColor="#05195A"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button7"
+            android:background="@drawable/round_border"
+            android:layout_height="55dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:padding="16dp"
+            android:text="More Info"
+            android:textColor="#05195A"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+</ScrollView>

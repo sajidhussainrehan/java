@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.rehansoft.asiacup2022uae">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AsiaCup2022UAE"
+        tools:targetApi="31">
+        <activity
+            android:name=".Stadiums"
+            android:exported="false" />
+        <activity
+            android:name=".Team6"
+            android:exported="false" />
+        <activity
+            android:name=".Team5"
+            android:exported="false" />
+        <activity
+            android:name=".Team4"
+            android:exported="false" />
+        <activity
+            android:name=".Team3"
+            android:exported="false" />
+        <activity
+            android:name=".Team2"
+            android:exported="false" />
+        <activity
+            android:name=".Team1"
+            android:exported="false" />
+        <activity
+            android:name=".Kits"
+            android:exported="false" />
+        <activity
+            android:name=".Winners"
+            android:exported="false" />
+        <activity
+            android:name=".Channels"
+            android:exported="false" />
+        <activity
+            android:name=".Polls"
+            android:exported="false" />
+        <activity
+            android:name=".Predictions"
+            android:exported="false" />
+        <activity
+            android:name=".POINTS"
+            android:exported="false" />
+        <activity
+            android:name=".LineUp"
+            android:exported="false" />
+        <activity
+            android:name=".Teams"
+            android:exported="false" />
+        <activity
+            android:name=".News"
+            android:exported="false" />
+        <activity
+            android:name=".Live"
+            android:exported="false" />
+        <activity
+            android:name=".Schedule"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false">
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
+        <!-- android:value="6Qtv4aOdl_uyW8iTmZocZTZ0MT8UtBU-bLugwHJeGCanKIF5t1iQZGRxqaPhmugMDT18qLn5XMttf6yW7eyhwN"/> -->
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="BG35eKJtwUe6MDfm0-tDDwIdm65JZIFGkfq89ncnW4PC08TUi_1IJczogL36UT37AJIfBw48bKh2uTUACzilOb" />
+
+    </application>
+
+</manifest>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309835166332",
+    "project_id": "world-cup-2022-predictions",
+    "storage_bucket": "world-cup-2022-predictions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309835166332:android:2199eb13bb35c40ffd4ff9",
+        "android_client_info": {
+          "package_name": "com.eurocup.uefaeuro2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309835166332-f3eab8qflsbppng6mki2b95cj6kg9ck5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO6r9kLkmhN0tbmcfL_m7nLr085kNB0Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309835166332-f3eab8qflsbppng6mki2b95cj6kg9ck5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/people_24"
+            android:title="Teams &amp; Squads" />
+        <item
+            android:id="@+id/schedule"
+            android:icon="@drawable/calenders"
+            android:title="Schedule" />
+        <item
+            android:id="@+id/news"
+            android:icon="@drawable/tv_off_24"
+            android:title="Latest News" />
+
+        <item
+            android:id="@+id/polls"
+            android:icon="@drawable/pools"
+            android:title="Polls" />
+
+        <item
+            android:id="@+id/winners"
+            android:icon="@drawable/wiinners"
+            android:title="Winners" />
+    </group>
+</menu>

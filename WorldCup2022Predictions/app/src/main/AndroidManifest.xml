@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.eurocup.uefaeuro2021">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WorldCup2022Predictions"
+        tools:targetApi="31">
+        <activity
+            android:name=".Splash"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TestPoint"
+            android:exported="false" />
+        <activity
+            android:name=".Standings"
+            android:exported="false" />
+        <activity
+            android:name=".Winners"
+            android:exported="false" />
+        <activity
+            android:name=".MatchPre"
+            android:exported="false" />
+        <activity
+            android:name=".Predictions"
+            android:exported="false" />
+        <activity
+            android:name=".Polls"
+            android:exported="false" />
+        <activity
+            android:name=".Channels"
+            android:exported="false" />
+        <activity
+            android:name=".Schedule"
+            android:exported="false" />
+        <activity
+            android:name=".Team32"
+            android:exported="false" />
+        <activity
+            android:name=".Team31"
+            android:exported="false" />
+        <activity
+            android:name=".Team30"
+            android:exported="false" />
+        <activity
+            android:name=".Team29"
+            android:exported="false" />
+        <activity
+            android:name=".Team28"
+            android:exported="false" />
+        <activity
+            android:name=".Team27"
+            android:exported="false" />
+        <activity
+            android:name=".Team26"
+            android:exported="false" />
+        <activity
+            android:name=".Team25"
+            android:exported="false" />
+        <activity
+            android:name=".Team24"
+            android:exported="false" />
+        <activity
+            android:name=".Team23"
+            android:exported="false" />
+        <activity
+            android:name=".Team22"
+            android:exported="false" />
+        <activity
+            android:name=".Team21"
+            android:exported="false" />
+        <activity
+            android:name=".Team20"
+            android:exported="false" />
+        <activity
+            android:name=".Team19"
+            android:exported="false" />
+        <activity
+            android:name=".Team18"
+            android:exported="false" />
+        <activity
+            android:name=".Team17"
+            android:exported="false" />
+        <activity
+            android:name=".Team16"
+            android:exported="false" />
+        <activity
+            android:name=".Team15"
+            android:exported="false" />
+        <activity
+            android:name=".Team14"
+            android:exported="false" />
+        <activity
+            android:name=".Team13"
+            android:exported="false" />
+        <activity
+            android:name=".Team12"
+            android:exported="false" />
+        <activity
+            android:name=".Team11"
+            android:exported="false" />
+        <activity
+            android:name=".Team10"
+            android:exported="false" />
+        <activity
+            android:name=".Team9"
+            android:exported="false" />
+        <activity
+            android:name=".Team8"
+            android:exported="false" />
+        <activity
+            android:name=".Team7"
+            android:exported="false" />
+        <activity
+            android:name=".Team6"
+            android:exported="false" />
+        <activity
+            android:name=".Team5"
+            android:exported="false" />
+        <activity
+            android:name=".Team4"
+            android:exported="false" />
+        <activity
+            android:name=".Team3"
+            android:exported="false" />
+        <activity
+            android:name=".Team2"
+            android:exported="false" />
+        <activity
+            android:name=".Team1"
+            android:exported="false" />
+        <activity
+            android:name=".Teams"
+            android:exported="false" />
+        <activity
+            android:name=".Live"
+            android:exported="false" />
+        <activity
+            android:name=".LineUp"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false">
+
+        </activity>
+    </application>
+
+</manifest>

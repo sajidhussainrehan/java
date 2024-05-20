@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.football.footballworldcupqatar.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+
+    </fragment>
+    <activity
+        android:id="@+id/live"
+        android:name="com.football.footballworldcupqatar.Live"
+        android:label="activity_live"
+        tools:layout="@layout/activity_live" />
+
+    <activity
+        android:id="@+id/nav_gallery"
+        android:name="com.football.footballworldcupqatar.Teams"
+        android:label="activity_teams"
+        tools:layout="@layout/activity_teams">
+
+    </activity>
+    <activity
+        android:id="@+id/news2"
+        android:name="com.football.footballworldcupqatar.News"
+        android:label="activity_news"
+        tools:layout="@layout/activity_news" />
+    <activity
+        android:id="@+id/fixtures"
+        android:name="com.football.footballworldcupqatar.Fixtures"
+        android:label="activity_fixtures"
+        tools:layout="@layout/activity_fixtures" />
+    <activity
+        android:id="@+id/lineup2"
+        android:name="com.football.footballworldcupqatar.Lineup"
+        android:label="activity_lineup"
+        tools:layout="@layout/activity_lineup" />
+    <activity
+        android:id="@+id/kits"
+        android:name="com.football.footballworldcupqatar.Kits"
+        android:label="activity_kits"
+        tools:layout="@layout/activity_kits" />
+    <activity
+        android:id="@+id/stadium2"
+        android:name="com.football.footballworldcupqatar.Stadium"
+        android:label="activity_stadium"
+        tools:layout="@layout/activity_stadium" />
+    <activity
+        android:id="@+id/history"
+        android:name="com.football.footballworldcupqatar.Winners"
+        android:label="activity_winners"
+        tools:layout="@layout/activity_winners" />
+    <activity
+        android:id="@+id/channels2"
+        android:name="com.football.footballworldcupqatar.Channels"
+        android:label="activity_channels"
+        tools:layout="@layout/activity_channels" />
+    <activity
+        android:id="@+id/standings"
+        android:name="com.football.footballworldcupqatar.Standings"
+        android:label="activity_standings"
+        tools:layout="@layout/activity_standings" />
+    <activity
+        android:id="@+id/predictions"
+        android:name="com.football.footballworldcupqatar.Predictions"
+        android:label="activity_predictions"
+        tools:layout="@layout/activity_predictions" />
+    <activity
+        android:id="@+id/stats"
+        android:name="com.football.footballworldcupqatar.Stats"
+        android:label="activity_stats"
+        tools:layout="@layout/activity_stats" />
+    <activity
+        android:id="@+id/polls2"
+        android:name="com.football.footballworldcupqatar.Polls"
+        android:label="activity_polls"
+        tools:layout="@layout/activity_polls" />
+
+
+</navigation>
